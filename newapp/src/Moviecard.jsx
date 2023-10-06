@@ -1,5 +1,5 @@
 import React from "react";
-const Moviecard = (movie) => {
+const Moviecard = ({ movie }) => {
   return (
     <div className="movie">
       <div>
