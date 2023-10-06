@@ -1,5 +1,5 @@
 import React from "react";
-const moviecard = (movie) => {
+const Moviecard = (movie) => {
   return (
     <div className="movie">
       <div>
@@ -24,4 +24,4 @@ const moviecard = (movie) => {
   );
 };
 
-export default moviecard;
+export default Moviecard;
