@@ -38,7 +38,7 @@ const App = () => {
           ))}
         </div>
       ) : (
-        <h1>Movie not found</h1>
+        <h2>Movie not found</h2>
       )}
     </div>
   );
