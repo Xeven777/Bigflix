@@ -128,6 +128,7 @@ h2 {
 .movie div:nth-of-type(2) {
   width: 100%;
   height: 100%;
+  transition: all 0.2s ease-in-out;
 }
 
 .movie div:nth-of-type(2) img {
