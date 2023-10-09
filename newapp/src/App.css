@@ -30,10 +30,9 @@ h1 {
   font-size: 3rem;
   letter-spacing: 0.9px;
   background: linear-gradient(90deg,
-      rgba(236, 48, 48, 0.8) 0%,
-      rgb(236, 48, 48) 80%,
-      rgba(255, 10, 10, 0.65) 100%);
-
+      rgba(255, 41, 41, 0.8) 0%,
+      rgb(255, 31, 31) 80%,
+      rgba(255, 10, 10, 0.801) 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -117,7 +116,7 @@ h2 {
   width: 100%;
   opacity: 0;
   top: 0;
-  color: #c01c1c;
+  color: #d42020;
 }
 
 .movie:hover {
@@ -138,7 +137,7 @@ h2 {
 
 .movie div:nth-of-type(3) {
   z-index: 2;
-  background: linear-gradient(transparent,#111111 90%);
+  background: linear-gradient(transparent, #111111 90%);
   padding: 36px 24px 24px 24px;
   position: absolute;
   bottom: 0;
